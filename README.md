@@ -93,3 +93,12 @@ The clock is pretty bright at night, so you'll likely want to dim it.  Do that w
 of the right button.  There are 8 levels of dimness, and after you get to the last, it will cycle
 back to the first. 
 
+---------
+## QR Code for this Github Manual
+
+![github-qr.png](github-qr.png)
+
+---------
+## QR Code for the video instructions
+
+![youtube.png](youtube.png)
