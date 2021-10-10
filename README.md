@@ -24,6 +24,12 @@ Each clock features:
 - A set of two lights, usually smaller, which are green and blue.
 - Two buttons -- one on the left and one on the right.
 
+------
+## Assembly
+
+If it comes in two pieces (I typically have to do this to mail it), then plug them together.
+There's only one way that they go together.
+
 ----------
 ## Reading the hours
 
